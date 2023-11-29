@@ -1,0 +1,51 @@
+[
+    {
+        "id": 1, 
+        "name": "Lampara 1", 
+        "description": "Luz living", 
+        "state": 1, 
+        "type": 0
+    },
+    {
+        "id": 2, 
+        "name": "Lampara 2", 
+        "description": "Luz cocina", 
+        "state": 0, 
+        "type": 0
+    },
+    {
+        "id": 3, 
+        "name": "Velador 1", 
+        "description": "Velador living", 
+        "state": 1, 
+        "type": 0
+    },
+    {
+        "id": 4, 
+        "name": "Persiana 1", 
+        "description": "Persiana living", 
+        "state": 1, 
+        "type": 1
+    },
+    {
+        "id": 5, 
+        "name": "Persiana 2", 
+        "description": "Persiana cocina", 
+        "state": 0, 
+        "type": 1
+    },
+    {
+        "id": 6, 
+        "name": "Persiana 3", 
+        "description": "Persiana balcon", 
+        "state": 1, 
+        "type": 1
+    },
+    {
+        "id": 7, 
+        "name": "Lampara 3", 
+        "description": "Luz balcon", 
+        "state": 1, 
+        "type": 0
+    }
+]
